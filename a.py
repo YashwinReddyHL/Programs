@@ -1,0 +1,16 @@
+import numpy as np
+mat=[[1,2,3,4],[3,6,8,4],[5,4,2,7]]
+sum=np.sum(mat)
+print("sum of matrix elements is",sum)
+min=np.min(mat)
+print("minimum of matrix:",min)
+max=np.max(mat)
+print("maximum of matrix:",max)
+mean=np.mean(mat)
+print("mean of the matrix:",mean)
+med=np.median(mat)
+print("median of the matrix:",med)
+cor=np.corrcoef(mat)
+print("correaltion coefficiants of the matrix elements:\n",cor)
+std=np.std(mat)
+print("standard deviation of array elements is:",std)
