@@ -1,0 +1,11 @@
+﻿CLIENTNUM,Attrition_Flag,Customer_Age,Gender,Dependent_count,Education_Level,Income_Category,Credit_Limit,Total_Revolving_Bal,Avg_Purchase,Total_Trans_Amt
+768805383,Existing Customer,45,M,3,High School,80K,12691,777,11914,1144
+818770008,Existing Customer,49,F,5,Graduate,Less than $40K,8256,864,7392,1291
+713982108,Existing Customer,51,M,3,Graduate,120K,3418,0,3418,1887
+769911858,Existing Customer,40,F,4,High School,Less than $40K,3313,2517,796,1171
+709106358,Existing Customer,40,M,3,Uneducated,80K,4716,0,4716,816
+719712633,Existing Customer,64,M,1,Graduate,Less than $40K,1709,895,814,1673
+772629333,Existing Customer,45,M,3,Graduate,60K,3454,1200,2254,1313
+720336708,Existing Customer,53,M,3,Doctorate,60K,3789,1706,2083,1609
+802013583,Existing Customer,56,M,3,College,$120K +,9689,2250,7439,1158
+711887583,Attrited Customer,47,M,2,Unknown,120K,5449,1628,3821,836
