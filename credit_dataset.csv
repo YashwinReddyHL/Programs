@@ -1,4 +1,4 @@
-﻿CLIENTNUM,Attrition_Flag,Customer_Age,Gender,Dependent_count,Education_Level,Income_Category,Credit_Limit,Total_Revolving_Bal,Avg_Purchase,Total_Trans_Amt
+﻿CLIENTNUM,Attrition_Flag,Age,Gender,Dependent_count,Education_Level,Income_Category,Credit_Limit,Total_Revolving_Bal,Avg_Purchase,Total_Trans_Amt
 768805383,Existing Customer,45,M,3,High School,80K,12691,777,11914,1144
 818770008,Existing Customer,49,F,5,Graduate,Less than $40K,8256,864,7392,1291
 713982108,Existing Customer,51,M,3,Graduate,120K,3418,0,3418,1887

@@ -1,10 +1,18 @@
-mat = np.array([[1,7,3,4],[3,5,6,8],[10,9,3,4]])
-print(mat)
-sum = np.sum(mat, axis=1)
-print("Sum of array elements row-wise",sum)
-sum = np.sum(mat, axis=0)
-print("Sum of array elements column-wise",sum)
-min = np.min(mat, axis=1)
-print("Row-wise minimum of the matrix:",min)
-max = np.max(mat,axis=0)
-print("Column-wise maximum of the matrix:",max)
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.cm as cm
+
+
+credit_df = pd.read_csv("credit_dataset.csv")
+credit_df
+
+
+credit_df.plot('Age','Income',kind='scatter',marker='o')
+
+
+credit_df['Age'].plot(kind='box')
+
+
+credit_df['Debt'].plot(kind='hist')
+
