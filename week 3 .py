@@ -43,6 +43,7 @@ import pandas as pd
 lst = ['Apple','Mango','Banana''Pine Apple','Grapes', 'Watermelon']
 df = pd.DataFrame(lst)
 print (df)
+ 
 
 # 6
 import pandas as pd
